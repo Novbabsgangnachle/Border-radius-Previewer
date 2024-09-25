@@ -3,11 +3,9 @@ C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Preview
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\bin\Debug\net8.0-windows\Border-radius Previewer.runtimeconfig.json
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\bin\Debug\net8.0-windows\Border-radius Previewer.dll
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\bin\Debug\net8.0-windows\Border-radius Previewer.pdb
-C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer_MarkupCompile.cache
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer_MarkupCompile.lref
-C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer.g.resources
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer.AssemblyInfoInputs.cache
@@ -18,3 +16,6 @@ C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Preview
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer.pdb
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer.genruntimeconfig.cache
 C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\ref\Border-radius Previewer.dll
+C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\Border-radius Previewer.sourcelink.json
+C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\BorderRadiusPreviewer.g.cs
+C:\Users\Endur PC\Desktop\Projects\Border-Radius Previewer\Border-radius Previewer\obj\Debug\net8.0-windows\BorderRadiusPreviewer.baml
